@@ -1,8 +1,8 @@
 ### Olá. Meu nome é Lucas Domingues
 
-- 🌱 Aprendendo Javascript
+- 🌱 Aprendendo Ruby
 - 🧠 Atualmente falo Inglês Intermediário
-- 🤔 Preciso de ajuda para entender alguns conceitos em JS
+- 🤔 Preciso de ajuda para entender alguns conceitos em Ruby
 - 💬 Fale comigo sobre programação
 - 📫 Para falar comigo: ldslucas64@gmail.com (E-mail)
 - 😄 Ele/Dele
